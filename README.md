@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @ahsan022
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ciber
+- 🌱 I’m currently learning front end
+- 💞️ I’m looking to collaborate on companies websites 
+- 📫 How to reach me ahsan
+arshad.022@gmail.com
 
 <!---
 ahsan022/ahsan022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
